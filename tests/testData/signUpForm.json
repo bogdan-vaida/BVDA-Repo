@@ -1,0 +1,12 @@
+{
+    "title": "Mr.",
+	"fullname": "Niels Holgersson",
+	"password": "11111",
+    "fname": "Niels",
+    "lname": "Holgersson",
+    "address": "123 Main St, City of Townsville",
+    "state": "Town",
+    "city": "Townsville",
+    "zip": "12345",
+    "mobile": "555-1234"
+}
