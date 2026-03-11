@@ -1,0 +1,4 @@
+Test - BEFORE ALL
+Test - BEFORE EACH
+Test 2 - doing something else
+Test - AFTER EACH
